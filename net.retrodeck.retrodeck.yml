@@ -1368,7 +1368,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/cemu-project/Cemu
-        commit: d8da8a54a6c08296a884b892d714cabcb7e4bdb5
+        commit: 9f02733a0dfa7f8e35bbe0ed245b443b23c6f4a8
     cleanup:
       - /app/include
       - /app/lib/*.a
